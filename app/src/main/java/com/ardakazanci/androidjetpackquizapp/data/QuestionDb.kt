@@ -77,7 +77,7 @@ abstract class QuestionDb : RoomDatabase() {
 
                 question = Question(
 
-                    question = "Soru 1",
+                    question = "Soru 2",
                     optionA = "A Şıkkı",
                     optionB = "B Şıkkı",
                     optionC = "C Şıkkı",
@@ -89,7 +89,7 @@ abstract class QuestionDb : RoomDatabase() {
 
                 question = Question(
 
-                    question = "Soru 1",
+                    question = "Soru 3",
                     optionA = "A Şıkkı",
                     optionB = "B Şıkkı",
                     optionC = "C Şıkkı",
